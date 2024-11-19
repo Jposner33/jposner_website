@@ -1,22 +1,23 @@
 ---
-title: "My Professional Website"
+title: "Jacob Posner's Website"
 ---
 
-## <span style="color: blue; font-family: Arial, sans-serif; font-weight: bold; font-style: italic; font-size: 25px; text-decoration: underline;">About Me</span>
+## <span style="color: black; font-family: Arial, sans-serif; font-weight: bold; font-size: 25px; text-decoration: underline;">About Me</span>
 
 ::: {.grid}
 ::: {.g-col-4}
-![](faceless.jpg){width=200px style="border-radius: 20px;"}
+![](headshot.jpg){width=200px style="border-radius: 20px;"}
 :::
 ::: {.g-col-8}
 
-### Add Name
-**Pronouns:** Add Pronouns  
-**Education:** University of College, B.S. Data Science  
-**Short Bio:** Add Bio about your background, interests, and expertise.
+### Jacob Posner (He/Him)
+
+**Education:** <span style="color: black">Macalester College, B.S. Statistics</span>
+
+**Bio:** <span style="color: black">I am a Statistics major, Political Science and Mathematics Minors, and a member of the baseball team at Macalester. I am passionate about my studies and baseball, and enjoy spending time outside and being with friends. </span>
 :::
 :::
 
-## Experience 
+## <span style="color: black; font-family: Arial, sans-serif; font-weight: bold; font-size: 25px; text-decoration: underline;">Experience</span>
 
-<embed src="Replace_with_your_own.pdf" type="application/pdf" width="100%" height="100px" />
+<embed src="Jacob Posner Resume R.pdf" type="application/pdf" width="100%" height="1000px" />

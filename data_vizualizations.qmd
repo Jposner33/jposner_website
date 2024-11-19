@@ -1,0 +1,21 @@
+---
+title: "Data Science Project Visualizations"
+echo: false
+freeze: auto
+execute: 
+    warning: false 
+    message: false
+---
+
+```{r}
+library(ggplot2) 
+library(dplyr)
+library(tidyverse)
+
+data(mtcars)
+
+ggplot(mtcars, aes(x=mpg, y=hp))+
+  geom_point()
+```
+
+

@@ -10,16 +10,16 @@ website:
         text: Home
       - text: Project Highlights
         menu:
-          - text: Data Science
+          - text: Statistics
             href: data_visualizations.qmd
-          - text: CS OR Other
+          - text: Data Science/Other
             href: other_highlights.qmd
     right:
       - icon: envelope
-        href: "mailto:your_email"
-      - text: Linked
+        href: "mailto:jacobposner22@gmail.com"
+      - text: Linkedin
         icon: linkedin
-        href: "https://www.linkedin.com/your_linkedin_address"
+        href: "www.linkedin.com/in/jacob-posner-092635264"
 
 format:
   html:

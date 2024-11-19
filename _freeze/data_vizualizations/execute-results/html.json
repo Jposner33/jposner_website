@@ -1,0 +1,17 @@
+{
+  "hash": "23659dd3c3740fb611711ae464004a67",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Data Science Project Visualizations\"\necho: false\nfreeze: auto\nexecute: \n    warning: false \n    message: false\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](data_vizualizations_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "data_vizualizations_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
